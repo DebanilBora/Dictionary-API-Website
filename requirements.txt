@@ -82,7 +82,7 @@ python-dotenv==1.0.1
 pyttsx3==2.99
 pytweening==1.2.0
 pytz==2025.2
-pywin32==311
+
 redis==6.4.0
 requests==2.32.4
 requests-html==0.10.0
@@ -121,5 +121,6 @@ yagmail==0.15.293
 yarl==1.20.1
 zipp==3.23.0
 gunicorn==23.0.0
+
 
 
